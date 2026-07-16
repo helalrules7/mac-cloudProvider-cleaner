@@ -71,7 +71,7 @@ your synced files.
 ## Installation
 
 ```bash
-git clone <this-repo> Cleaner
+git clone https://github.com/helalrules7/mac-cloudProvider-cleaner.git Cleaner
 cd Cleaner
 chmod +x cleaner.sh
 ```
